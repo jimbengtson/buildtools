@@ -1,0 +1,6 @@
+﻿Ambush at Goblin Gulch
+     1  Dillon is hidden in the woods, watching the gate of a wilderlord castle.  Thinking of how he got here...
+     2  Mavone calls Dillon, explains assignment.
+         2.1  Dillon: “No more spiders”
+         2.2  Scout for Enshadowed locations
+         2.3  Coordinate with Goblin Kingdom
